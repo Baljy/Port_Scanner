@@ -1,4 +1,4 @@
-# 🔍 Port Scanner
+Port Scanner:
 
 Uno scanner di porte scritto in Python con supporto multithreading, sviluppato a scopo educativo per imparare i fondamentali del networking e della sicurezza informatica.
 
